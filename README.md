@@ -10,9 +10,11 @@
 </ul>
 <h2>🎯 My Tech Stack</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/android/android-tile.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/android/android-tile.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android studio" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="42" height="42" /></a>
 
 <p align="center">🚀 Always open to collaboration, exciting projects, and new opportunities!</p>
 
