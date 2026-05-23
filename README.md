@@ -1,17 +1,71 @@
-<h1>Hi there👋, I'm Carlos Miguel Ramos</h1>
-<p>A passionate Mobile Application Developer specializing in Flutter. With a strong background in UI/UX design, I craft seamless and visually stunning applications that deliver exceptional user experiences.</p>
-<h2>🔥 What I Do</h2>
-<ul>
-  <li>✔️ Build cross-platform mobile apps using <strong>Flutter & Dart</strong></li>
-  <li>✔️ Design intuitive and user-friendly <strong>UI/UX</strong> interfaces</li>
-  <li>✔️ Optimize app performance for a smooth and responsive experience</li>
-  <li>✔️ Integrate REST APIs, Firebase, and third-party services</li>
-  <li>✔️ Follow clean architecture & best coding practices</li>
-</ul>
-<h2>🎯 My Tech Stack</h2>
-<p><a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/android/android-tile.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android studio" width="42" height="42" /></a>
+# Hi there, I'm Carlos Miguel Ramos 👋
 
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.facebook.com/itscarlmigzz" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/itscarlmigzz" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+## Flutter Developer
+
+Welcome to my GitHub profile! I'm a passionate Flutter developer dedicated to building beautiful, performant, and user-friendly mobile applications. With expertise in cross-platform development, I create innovative solutions that work seamlessly on iOS, Android, and web platforms.
+
+---
+
+## 🚀 About Me
+
+I'm a Flutter developer with a strong focus on:
+- **Mobile App Development** - Building robust and scalable applications with Flutter
+- **UI/UX Design** - Creating intuitive and visually appealing user interfaces
+- **State Management** - Expertise with Provider, Riverpod, BLoC, and GetX patterns
+- **REST APIs & Backend Integration** - Seamless integration with backend services
+- **Performance Optimization** - Writing efficient and optimized Flutter code
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Frameworks:**
+- Flutter & Dart
+
+**Mobile Development:**
+- Android & iOS native development
+- Firebase (Firestore, Authentication, Cloud Functions)
+
+**Tools & Platforms:**
+- VS Code, Android Studio, Xcode
+- Git & GitHub
+- Figma (UI/UX Design)
+- Firebase Console, App Store Connect, Google Play Console
+
+**Architecture & Patterns:**
+- MVC, MVVM, Clean Architecture
+- RxDart, BLoC, GetX
+- Repository Pattern
+- Dependency Injection
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Flutter performance optimization
+- Desktop development with Flutter
+- AI/ML integration in mobile apps
+- Advanced Firebase features
+
+---
+
+## 💬 Let's Connect
+
+I'd love to collaborate on exciting projects! Feel free to reach out:
+
+- **Email:** ramos.carlosmiguel56@gmail.com
+- **Portfolio:** carlmigz.github.io
+
+---
+
+## 📈 Open to Opportunities
+
+I'm actively looking for:
+- Freelance Flutter development projects
+- Full-time Flutter developer positions
+- Collaboration on open-source projects
+- Mentoring opportunities
+
+---
+
+**Thank you for visiting my profile!**
