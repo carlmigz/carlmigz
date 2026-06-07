@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer dedicated to bu
 I'm a Flutter developer with a strong focus on:
 - **Mobile App Development** - Building robust and scalable applications with Flutter
 - **UI/UX Design** - Creating intuitive and visually appealing user interfaces
-- **State Management** - Expertise with Provider, Riverpod, BLoC, and GetX patterns
+- **State Management** - Expertise with RxDart, BLoC, and GetX patterns
 - **REST APIs & Backend Integration** - Seamless integration with backend services
 - **Performance Optimization** - Writing efficient and optimized Flutter code
 
@@ -33,18 +33,14 @@ I'm a Flutter developer with a strong focus on:
 - Firebase Console, App Store Connect, Google Play Console
 
 **Architecture & Patterns:**
-- MVC, MVVM, Clean Architecture
+- Clean Architecture
 - RxDart, BLoC, GetX
-- Repository Pattern
-- Dependency Injection
-
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced Flutter performance optimization
 - Desktop development with Flutter
-- AI/ML integration in mobile apps
 - Advanced Firebase features
 
 ---
